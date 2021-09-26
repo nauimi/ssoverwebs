@@ -1,7 +1,7 @@
 {
-  "name": "shadowsocks-over-websocket",
+  "name": "ssoverws",
   "version": "0.1.8",
-  "description": "A fast tunnel proxy that helps you bypass firewalls",
+  "description": "af",
   "main": "tcprelay.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,19 +9,19 @@
     "local": "node local.js",
     "start": "node server.js"
   },
+  "engines": {
+    "node": "14.x"
+  }
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VincentChanX/shadowsocks-over-websocket.git"
+    "url": "git+https://github.com/nauimi/ssoverwebs/"
   },
   "keywords": [
-    "proxy"
+    "pxy"
   ],
-  "author": "vincentchan <hci.vincentchan@gmail.com> (https://github.com/VincentChanX)",
+  "author": "nuau",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/VincentChanX/shadowsocks-over-websocket/issues"
-  },
-  "homepage": "https://github.com/VincentChanX/shadowsocks-over-websocket#readme",
+  "homepage": "https://github.com/nauimi/ssoverwebs/",
   "dependencies": {
     "bufferutil": "^3.0.0",
     "commander": "^2.9.0",
