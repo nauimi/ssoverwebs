@@ -14,7 +14,7 @@
   }
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nauimi/ssoverwebs/"
+    "url": "git+https://github.com/nauimi/ssoverwebs.git"
   },
   "keywords": [
     "pxy"
